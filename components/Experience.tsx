@@ -17,7 +17,7 @@ const Experience = () => {
   return (
     <section id="experience" ref={ref}>
       <SectionHeading>My Experience</SectionHeading>
-      <VerticalTimeline lineColor="" visible>
+      <VerticalTimeline lineColor="">
         {experiencesData.map((experience, index) => (
           <React.Fragment key={index}>
             <VerticalTimelineElement
