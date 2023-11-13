@@ -3,8 +3,8 @@ import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import hilink from "@/public/hilink.png";
-import priceWise from "@/public/priceWise.png";
-import snapGram from "@/public/snapGram.png";
+import pricewise from "@/public/priceWise.png";
+import snapgram from "@/public/snapGram.png";
 
 
 export const links = [
@@ -83,7 +83,7 @@ export const projectsData = [
         description:
             "Products analysis and tracking utilizing advanced web scraping techniques to provide real-time insights into products prices through specified links.",
         tags: ["React", "TypeScript", "Next.js", "Tailwind", "WebScraping"],
-        imageUrl: priceWise,
+        imageUrl: pricewise,
 
     },
     {
@@ -91,7 +91,7 @@ export const projectsData = [
         description:
             "A Social media app that allows you to share posts and interact with other users.",
         tags: ["React", "Appwrite", "Tailwind", "Vite",],
-        imageUrl: snapGram,
+        imageUrl: snapgram,
 
     },
 ] as const;
