@@ -3,8 +3,8 @@ import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import hilink from "@/public/hilink.png";
-import pricewise from "@/public/priceWise.png";
-import snapgram from "@/public/snapGram.png";
+import pricewise from "@/public/pricewise.png";
+import snapgram from "@/public/snapgram.png";
 
 
 export const links = [
